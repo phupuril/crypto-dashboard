@@ -1,0 +1,31 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Virtual Environment
+# =====================
+.venv/
+venv/
+env/
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# User preferences / runtime state
+# =====================
+preferences.json
+dashboard_prefs.json
+
+# =====================
+# Logs (ถ้ามีในอนาคต)
+# =====================
+*.log
