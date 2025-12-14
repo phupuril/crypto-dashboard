@@ -1,0 +1,16 @@
+{
+  "theme": "light",
+  "selected_symbol": "BTCUSDT",
+  "assets_visible": {
+    "BTC": true,
+    "ETH": true,
+    "SOL": true,
+    "BNB": true,
+    "LTC": true
+  },
+  "panels_visible": {
+    "chart": true,
+    "orderbook": true,
+    "trades": true
+  }
+}
